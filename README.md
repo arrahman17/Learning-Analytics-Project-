@@ -23,4 +23,8 @@
  
  ![github-small](https://user-images.githubusercontent.com/41241181/52512106-7ae71780-2c03-11e9-975f-62202d529dc6.png)
 
-**Libraries and Tools for Visualization**
+**Tools for Visualization**
+ - D3.js 
+ 
+ ![github-small](https://user-images.githubusercontent.com/41241181/52512327-88e96800-2c04-11e9-8565-0e66fdbacd83.png)
+        
