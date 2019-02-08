@@ -5,3 +5,12 @@
 # Project Architecture
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52511453-5f2e4200-2c00-11e9-9d3a-8b92b56f95c3.png)
+
+# Libraries/Algorithms
+**Algorithm for Analysis** 
+ Classification
+	Logistic Regression
+	KNeighbours Classifier
+	Random Forest Classifier
+	SVC(Support Vector Classifier)
+
