@@ -19,4 +19,8 @@
 	- Libraries: Pandas, numpy
 	
 	
- ![github-small](https://user-images.githubusercontent.com/41241181/52512081-5f7c0c80-2c03-11e9-9450-a6833f67adeb.png)![github-small](https://user-images.githubusercontent.com/41241181/52512106-7ae71780-2c03-11e9-975f-62202d529dc6.png)
+ ![github-small](https://user-images.githubusercontent.com/41241181/52512081-5f7c0c80-2c03-11e9-9450-a6833f67adeb.png)
+ 
+ ![github-small](https://user-images.githubusercontent.com/41241181/52512106-7ae71780-2c03-11e9-975f-62202d529dc6.png)
+
+**Libraries and Tools for Visualization**
