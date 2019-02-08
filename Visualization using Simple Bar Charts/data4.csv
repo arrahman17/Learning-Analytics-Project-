@@ -1,0 +1,16 @@
+Department,Students,Country,Enrolledstud,Subcontinents,TotalStudents,LearningSource,Lvalue
+Engineering,49,        Pakistan,11,Asia,39,Lecture,77
+Mathematic,7,        India,4,Europe,34,Seminar,2
+Biology,4,        Germany,26,America,1,Video,1
+Business,5,        Iran,16,Africa,1,Online,2
+Physics,3,        Belgium,1,,,,
+Humanities,1,        China,4,,,,
+Geography,1,        Italy,2,,,,
+Maschinenbau ,2,        Afghanistan,1,,,,
+Medical,14,        Palestine,1,,,,
+Chemie,1,        Egypt,1,,,,
+,,France,1,,,,
+,,Russia,1,,,,
+,,Syria,2,,,,
+,,Turky,5,,,,
+,,UK,1,,,,

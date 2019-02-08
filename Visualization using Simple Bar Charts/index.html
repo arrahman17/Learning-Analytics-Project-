@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+
+<style> /* set the CSS */
+
+body { font: 12px Arial;}
+h1 { font: 400}
+
+text {
+  font-size: 12px;
+  fill: black;
+}
+
+text1 {
+  font-size: 24px;
+  fill: #b1150a;
+}
+
+path { 
+  stroke: steelblue;
+	stroke-width: 2;
+	fill: none;
+}
+
+.bar {fill: steelblue;}
+.bar:hover {fill: rgb(255, 145, 0);}
+
+.axis path,
+.axis line {
+	fill:none;
+	stroke: grey;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+
+</style>
+
+<body>
+<H1>Student Enrolment and Performance Analysis</H1>
+<H2>The Visualization contain four parts Department, Country and Sub-Continent wise Enrolment Analysis and about  Learning resources</H2>
+  <H2>The Visualization is about UDE Students data, which Team Zusammen generated with the help of survey</H2> 
+
+<!-- load the d3.js library -->	
+<script src="http://d3js.org/d3.v3.min.js"></script>
+
+<script>
+
+// Set the dimensions of the canvas / graph
+var	margin = {top: 30, right: 20, bottom: 30, left: 50},
+	width = 900 - margin.left - margin.right,
+	height = 500 - margin.top - margin.bottom;
+
+
+// Set the ranges
+var	x = d3.scale.ordinal()
+	.rangeRoundBands([0, width], .1);
+var	y = d3.scale.linear().range([height, 0]);
+
+// Define the axes
+var	xAxis = d3.svg.axis().scale(x)
+	.orient("bottom").ticks(5);
+
+var	yAxis = d3.svg.axis().scale(y)
+	.orient("left");
+
+// <.........................Define the Bar Chart.....................>  //
+
+// For Chart1   
+// Adds the svg canvas
+var	chart1 = d3.select("body")
+	.append("svg")
+		.attr("width", width + margin.left + margin.right)
+		.attr("height", height + margin.top + margin.bottom)
+	.append("g")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// Get the data
+d3.csv("data4.csv", function(error, data) {
+	data.forEach(function(d) {
+		d.Department = (d.Department);
+		d.Students = +d.Students;
+	});
+
+	// Scale the range of the data
+	x.domain(data.map( function(d) { return d.Department; }));
+	y.domain([0, d3.max(data, function(d) { return d.Students; })]);
+
+
+	// Add the X Axis
+  chart1.selectAll(".bar")
+      .data(data)
+      .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.Department); })
+      .attr("y", function(d) { return y(d.Students); })
+      .attr("height", function(d) { return height - y(d.Students); })
+      .attr("width", x.rangeBand()
+      );
+ 
+
+  chart1.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+	// Add the Y Axis
+	chart1.append("g")
+		.attr("class", "y axis")
+		.call(yAxis);
+
+	chart1.append("text")
+      .attr("class", "label")
+      .attr("y", height/100)
+	  .attr("x", width/2)
+      .attr("text-anchor", "middle")
+      .text("Departments")
+
+	chart1.append("text")
+		  .attr("transform", "rotate(-90)")
+		  .text("Department wise Enrolment")
+		  .attr("y", -29)
+		  .attr("x", -(height/2))
+		  .attr("text-anchor", "middle");
+
+});
+
+// For Chart2
+// Adds the svg canvas
+var	chart2 = d3.select("body")
+	.append("svg")
+		.attr("width", width + margin.left + margin.right)
+		.attr("height", height + margin.top + margin.bottom)
+	.append("g")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// Get the data
+d3.csv("data4.csv", function(error, data) {
+	data.forEach(function(d) {
+		d.Country = (d.Country);
+		d.Enrolledstud = +d.Enrolledstud;
+	});
+
+	// Scale the range of the data
+	x.domain(data.map( function(d) { return d.Country; }));
+	y.domain([0, d3.max(data, function(d) { return d.Enrolledstud; })]);
+
+	
+  chart2.selectAll(".bar")
+      .data(data)
+      .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.Country); })
+      .attr("y", function(d) { return y(d.Enrolledstud); })
+      .attr("height", function(d) { return height - y(d.Enrolledstud); })
+      .attr("width", x.rangeBand()
+      );
+
+  chart2.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+	// Add the Y Axis
+	chart2.append("g")
+		.attr("class", "y axis")
+		.call(yAxis);
+
+
+		chart2.append("text")
+      .attr("class", "label")
+      .attr("y", height/100)
+			.attr("x", width/2)
+      .attr("text-anchor", "middle")
+      .text("Country")
+
+	chart2.append("text")
+		  .attr("transform", "rotate(-90)")
+		  .text("Country wise Enrolment")
+		  .attr("y", -29)
+		  .attr("x", -(height/2))
+		  .attr("text-anchor", "middle");
+
+});
+
+// For Chart3
+// Adds the svg canvas
+var	chart3 = d3.select("body")
+	.append("svg")
+		.attr("width", width + margin.left + margin.right)
+		.attr("height", height + margin.top + margin.bottom)
+	.append("g")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+d3.csv("data4.csv", function(error, data) {
+	data.forEach(function(d) {
+		d.Subcontinents = (d.Subcontinents);
+		d.TotalStudents = +d.TotalStudents;
+	});
+
+	// Scale the range of the data
+	x.domain(data.map( function(d) { return d.Subcontinents; }));
+	y.domain([0, d3.max(data, function(d) { return d.TotalStudents; })]);
+
+	
+  chart3.selectAll(".bar")
+      .data(data)
+      .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.Subcontinents); })
+      .attr("y", function(d) { return y(d.TotalStudents); })
+      .attr("height", function(d) { return height - y(d.TotalStudents); })
+      .attr("width", x.rangeBand()
+      );
+
+      chart3.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+	// Add the Y Axis
+	chart3.append("g")
+		.attr("class", "y axis")
+		.call(yAxis);
+
+   chart3.append("text")
+      .attr("class", "label")
+      .attr("y", height/100)
+	  .attr("x", width/2)
+      .attr("text-anchor", "middle")
+      .text("Sub-Continent")
+
+	chart3.append("text")
+		  .attr("transform", "rotate(-90)")
+		  .text("Sub-continent wise Enrolment")
+		  .attr("y", -29)
+		  .attr("x", -(height/2))
+		  .attr("text-anchor", "middle");
+});
+
+
+
+//For Chart4
+var	chart4 = d3.select("body")
+	.append("svg")
+		.attr("width", width + margin.left + margin.right)
+		.attr("height", height + margin.top + margin.bottom)
+	.append("g")
+		.attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+
+d3.csv("data4.csv", function(error, data) {
+	data.forEach(function(d) {
+		d.LearningSource = (d.LearningSource);
+		d.Lvalue  = +d.Lvalue;
+	});
+
+	// Scale the range of the data
+	x.domain(data.map( function(d) { return d.LearningSource; }));
+	y.domain([0, d3.max(data, function(d) { return d.Lvalue; })]);
+
+	
+  chart4.selectAll(".bar")
+      .data(data)
+      .enter().append("rect")
+      .attr("class", "bar")
+      .attr("x", function(d) { return x(d.LearningSource); })
+      .attr("y", function(d) { return y(d.Lvalue); })
+      .attr("height", function(d) { return height - y(d.Lvalue); })
+      .attr("width", x.rangeBand()
+      );
+
+      chart4.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+	// Add the Y Axis
+	chart4.append("g")
+		.attr("class", "y axis")
+		.call(yAxis);
+
+		chart4.append("text")
+      .attr("class", "label")
+      .attr("y", height/100)
+	  .attr("x", width/2)
+      .attr("text-anchor", "middle")
+      .text("Learning Resource")
+
+	chart4.append("text")
+		  .attr("transform", "rotate(-90)")
+		  .text("Range")
+		  .attr("y", -29)
+		  .attr("x", -(height/2))
+		  .attr("text-anchor", "middle");
+
+});
+
+
+
+</script>
+</body>
