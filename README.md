@@ -8,9 +8,10 @@
 
 # Libraries/Algorithms
 **Algorithm for Analysis** 
-**Classification**
 	Logistic Regression,
 	KNeighbours Classifier,
 	Random Forest Classifier and 
 	SVC(Support Vector Classifier)
+**Libraries and Tools for Analysis**
+
 
