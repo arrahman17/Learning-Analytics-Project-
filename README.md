@@ -24,10 +24,11 @@
 
 **Tools for Visualization**
  - D3.js 
+ - Node.js
  
  ![github-small](https://user-images.githubusercontent.com/41241181/52514899-226d4580-2c16-11e9-9c0b-e3d91c7533bd.png)
 
- 
+ ![github-small](https://user-images.githubusercontent.com/41241181/52515067-8e9c7900-2c17-11e9-90da-38ad8468c185.png)
 
 # Screenshots of the Visualizations
 **Simple Bar Charts**
