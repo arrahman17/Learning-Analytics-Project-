@@ -108,9 +108,11 @@ First make sure you have node installed , if you do not have installed then go t
 - For Node.js "node --version "
 - For NPM  "npm --version "
 
-After Insatalling Node, follow this link (https://d3js.org/) to download the D3.Js librray.
+After Insatalling Node, follow this link (https://d3js.org/) to download the D3.Js librray , if you want to start with a new project 
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513614-4035ad00-2c0c-11e9-8a32-fc4499a5d3d6.png)
+
+Clone our project and open the one of the visualization folder 
 
 To Run the it locally, open the terminal in folder where the visualization code reside, here in the case we have in "Visualization using simple bar charts " 
 - write the follwoing commands 
