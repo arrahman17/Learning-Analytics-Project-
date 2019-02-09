@@ -85,7 +85,7 @@ Open Command Terminal and write down these commands
 - python -m pip install --upgrade pip
 - python -m pip install jupyter
 
-After Intalling it , Open Terminal and type "Jupyter Notebook " if its works Congrationals you have installed sucessfully
+After Installing it , Open Terminal and type "Jupyter Notebook " if its works Congrationals you have installed sucessfully
 
 Here are the links 
 
