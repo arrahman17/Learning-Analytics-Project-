@@ -24,6 +24,6 @@
 
 **Tools for Visualization**
  - D3.js 
- 
- ![github-small](https://user-images.githubusercontent.com/41241181/52512327-88e96800-2c04-11e9-8565-0e66fdbacd83.png)
-        
+
+# Screenshots of the Visualizations
+![github-small](https://user-images.githubusercontent.com/41241181/52512800-2d6ca980-2c07-11e9-8cd7-41f329965eef.png)
