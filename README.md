@@ -80,13 +80,13 @@ Install python with jupyter Notebook and as well as the libraries Pandas and Num
 - Pip (https://pip.pypa.io/en/stable/installing/)
 - scikit-learn (http://scikit-learn.org/stable/install.html)
 
-- Installing Jupyter using Pip
+Installing Jupyter using Pip
 
 - python -m pip install --upgrade pip
 - python -m pip install jupyter
 
 
-- Here are the links 
+Here are the links 
 
  - https://jupyter.org/install 
  
