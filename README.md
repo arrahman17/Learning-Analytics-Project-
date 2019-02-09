@@ -52,7 +52,9 @@
 ![github-small](https://user-images.githubusercontent.com/41241181/52513097-ce0f9900-2c08-11e9-8615-4d75981dd8ac.png)
 
 ## Installation
+
 **Installation for Machine learing**
+
 Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
 
 - Here are the links 
@@ -66,6 +68,7 @@ Install python with jupyter Notebook and as well as the libraries Pandas and Num
 - Run it line by line 
 
 **Installation for Visualization**
+
 First make sure you have node installed , if you do not have installed then go to official Node web page (https://nodejs.org/en/) and download the latest version. 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513674-acb0ac00-2c0c-11e9-9b87-3f36287926ba.png)
 
@@ -74,6 +77,7 @@ First make sure you have node installed , if you do not have installed then go t
 - For NPM  "npm --version "
 
 After Insatalling Node, follow this link (https://d3js.org/) to download the D3.Js librray.
+
 ![github-small](https://user-images.githubusercontent.com/41241181/52513614-4035ad00-2c0c-11e9-8a32-fc4499a5d3d6.png)
 To Run the it locally, open the terminal in folder where the visulaization code reside, here in the case we have in "Visualization using simple bar charts " 
 - write the follwoing commands 
