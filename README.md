@@ -121,4 +121,4 @@ Same as for Interactive bar chart folder
 - For Providing us a such a plateform to learn the theoritical concept as well as the Practical skills
 - You will improve your skills like Communication and Presentaion , Theoritical and Practical skills 
 - You have the oppurtunity to Brainstorm ideas during workshops and will have the the chance to work with globally minded students 
-
+- This project was the part of Learning Analytics course 
