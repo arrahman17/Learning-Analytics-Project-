@@ -26,8 +26,19 @@
  - D3.js 
 
 # Screenshots of the Visualizations
+**Simple Bar Charts**
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52512797-2ba2e600-2c07-11e9-9f09-e5493fbc425b.png)
 ![github-small](https://user-images.githubusercontent.com/41241181/52512800-2d6ca980-2c07-11e9-8cd7-41f329965eef.png)
 ![github-small](https://user-images.githubusercontent.com/41241181/52512802-2f366d00-2c07-11e9-8396-fadd5878a26a.png)
 ![github-small](https://user-images.githubusercontent.com/41241181/52512804-30679a00-2c07-11e9-919b-fa1f0ed80b46.png)
+
+**Interactive Bar Charts**
+- Department wise Student Enrollment Analysis for year 2019
+![github-small](https://user-images.githubusercontent.com/41241181/52513091-c819b800-2c08-11e9-88ce-99881fe4cdaf.png)
+- German Student Analysis 
+![github-small](https://user-images.githubusercontent.com/41241181/52513094-cb14a880-2c08-11e9-9a3e-0d6767f5018c.png)
+- Internationl Studetn Analysis
+![github-small](https://user-images.githubusercontent.com/41241181/52513095-ccde6c00-2c08-11e9-9bdf-33bb0f8d7082.png)
+- Grade Average for each Department 
+![github-small](https://user-images.githubusercontent.com/41241181/52513097-ce0f9900-2c08-11e9-8615-4d75981dd8ac.png)
