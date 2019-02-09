@@ -70,7 +70,7 @@
 
 ## Installation
 
-**Installation for Machine learing**
+**Installation for Machine learning**
 
 Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
 
