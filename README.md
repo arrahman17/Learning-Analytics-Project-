@@ -74,11 +74,23 @@
 
 Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
 
+_ Python 3.6 installed
+- Pip installed (If it is not already installed, download and install pip: https://pip.pypa.io/en/stable/installing/)
+- Install numpy: pip install numpy
+- Install scipy: pip install scipy
+- Install sklearn: pip install sklearn
+
+- Installing Jupyter using Pip
+
+- python3 -m pip install --upgrade pip
+- python3 -m pip install jupyter
+
+
 - Here are the links 
 
-- https://www.youtube.com/watch?v=-llHYUMH9Dg
-
-- https://www.youtube.com/watch?v=jnpC_Ib_lbc
+ - https://jupyter.org/install 
+ 
+ - https://calebshortt.com/2016/01/15/installing-scikit-learn-python-data-mining-library/
                  - 
 
 - Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
