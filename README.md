@@ -27,10 +27,13 @@
 
 # Screenshots of the Visualizations
 **Simple Bar Charts**
-
+- Department wise Enrollment Analysis 
 ![github-small](https://user-images.githubusercontent.com/41241181/52512797-2ba2e600-2c07-11e9-9f09-e5493fbc425b.png)
+- Country wise Enrollment analysis 
 ![github-small](https://user-images.githubusercontent.com/41241181/52512800-2d6ca980-2c07-11e9-8cd7-41f329965eef.png)
+- Sub-Continent wise Enrollment Analysis 
 ![github-small](https://user-images.githubusercontent.com/41241181/52512802-2f366d00-2c07-11e9-8396-fadd5878a26a.png)
+
 ![github-small](https://user-images.githubusercontent.com/41241181/52512804-30679a00-2c07-11e9-919b-fa1f0ed80b46.png)
 
 **Interactive Bar Charts**
