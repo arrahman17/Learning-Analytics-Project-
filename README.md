@@ -50,9 +50,13 @@
 **Installation for Machine learing**
 Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
 
-- Here is the link https://www.youtube.com/watch?v=jnpC_Ib_lbc
+- Here is the link 
+https://www.youtube.com/watch?v=-llHYUMH9Dg
 
-- Open Terminal and write Jupyter Notebook, and open the "LA_project_grades_analysis.ipynb" 
+https://www.youtube.com/watch?v=jnpC_Ib_lbc
+                 - 
+
+- Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
 - Run it line by line 
 
 **Installation for Visualization**
