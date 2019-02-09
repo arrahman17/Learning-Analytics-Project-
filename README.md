@@ -141,7 +141,7 @@ Same as for Interactive bar chart folder
 **Special Thanks** 
 
 **We are very thankful to Prof. Dr. Mohamed Amine Chatti and Dr. Arham Muslim**
-- For Providing us such a plateform to learn the theoritical concept as well as the Practical skills
+- For Providing us such a platform to learn the theoritical concept as well as the Practical skills
 - You will improve communication, presentation ,theoritical and practical skills 
 - You have the oppurtunity to Brainstorm ideas during workshops and will have the chance to work with globally minded students 
 - This project was the part of Learning Analytics course 
