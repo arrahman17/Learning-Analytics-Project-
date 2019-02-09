@@ -1,6 +1,8 @@
 # Learning-Analytics-Based-Project-
+
 # Project Overview
-  **Student Enrollment and Performance Analysis**
+
+ **Student Enrollment and Performance Analysis**
   
   This project is aim to analyse student performance and enrolment.  We have collected raw data from students based on their previous grades. The project has two parts, one is system will classify Grades into two catageories Good or Bad using Sciket learn with the help of Machine learning techniques, and in second part we visualize the pre-processed data using D3.js.
   
@@ -9,13 +11,16 @@
 ![github-small](https://user-images.githubusercontent.com/41241181/52514869-e76b1200-2c15-11e9-868c-de81e0f0f0b8.png)
 
 # Libraries/Algorithms
+
 **Algorithm for Analysis**
+
 - Logistic Regression
 - KNeighbours Classifier
 - Random Forest Classifier 
 - SVC(Support Vector Classifier)
 
 **Libraries and Tools for Analysis**
+
 - Sciket learn using Python
 - Libraries: Pandas, numpy
 	
@@ -25,6 +30,7 @@
  ![github-small](https://user-images.githubusercontent.com/41241181/52512106-7ae71780-2c03-11e9-975f-62202d529dc6.png)
 
 **Tools for Visualization**
+
  - D3.js 
  - Node.js
  
@@ -32,7 +38,7 @@
 
  ![github-small](https://user-images.githubusercontent.com/41241181/52515067-8e9c7900-2c17-11e9-90da-38ad8468c185.png)
 
-# Screenshots of the Visualizations
+# Screenshots of the Visualization
 
 **Simple Bar Charts**
 
@@ -92,7 +98,7 @@ After Insatalling Node, follow this link (https://d3js.org/) to download the D3.
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513614-4035ad00-2c0c-11e9-8a32-fc4499a5d3d6.png)
 
-To Run the it locally, open the terminal in folder where the visulaization code reside, here in the case we have in "Visualization using simple bar charts " 
+To Run the it locally, open the terminal in folder where the visualization code reside, here in the case we have in "Visualization using simple bar charts " 
 - write the follwoing commands 
   - npm install -g http-server
   - http-server 
@@ -102,6 +108,7 @@ To Run the it locally, open the terminal in folder where the visulaization code 
 Same as for Interactive bar chart folder 
 
 # Group Members
+
 - Abdul-Rahman, khan 
 - A.B.M, Rocknuzzaman 
 - Piush, Aggarwal
