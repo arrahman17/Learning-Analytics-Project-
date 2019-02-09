@@ -74,7 +74,7 @@
 
 Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
 
-_ Python 3.6 installed
+- Install Python 3.6 
 - Pip installed (If it is not already installed, download and install pip: https://pip.pypa.io/en/stable/installing/)
 - Install numpy: pip install numpy
 - Install scipy: pip install scipy
@@ -94,6 +94,7 @@ _ Python 3.6 installed
                  - 
 
 - Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
+
 - Run it line by line 
 
 **Installation for Visualization**
