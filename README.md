@@ -49,7 +49,9 @@
 ## Installation
 **Installation for Machine learing**
 Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
+
 - Here is the link https://www.youtube.com/watch?v=jnpC_Ib_lbc
+
 **Installation for Visualization**
 First make sure you have node installed , if you do not have installed then go to official Node web page (https://nodejs.org/en/) and download the latest version. 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513674-acb0ac00-2c0c-11e9-9b87-3f36287926ba.png)
