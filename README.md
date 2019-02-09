@@ -81,11 +81,13 @@ Install python with jupyter Notebook and as well as the libraries Pandas and Num
 - scikit-learn (http://scikit-learn.org/stable/install.html)
 
 Installing Jupyter using Pip
+
 Open Command Terminal and write down these commands 
+
 - python -m pip install --upgrade pip
 - python -m pip install jupyter
 
-After Installing it , Open Terminal and type "Jupyter Notebook " if its works Congrationals you have installed sucessfully
+After Installing it , Open Terminal and type "Jupyter Notebook " if its works Congratulations you have installed sucessfully
 
 Here are the links 
 
@@ -105,19 +107,22 @@ First make sure you have node installed , if you do not have installed then go t
 ![github-small](https://user-images.githubusercontent.com/41241181/52513674-acb0ac00-2c0c-11e9-9b87-3f36287926ba.png)
 
 - write these command to check Node and NPM is properly installed 
+
 - For Node.js "node --version "
 - For NPM  "npm --version "
 
-After Insatalling Node, follow this link (https://d3js.org/) to download the D3.Js librray , if you want to start with a new project 
+After Installing Node, follow this link (https://d3js.org/) to download the D3.Js librray , if you want to start with a new project 
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513614-4035ad00-2c0c-11e9-8a32-fc4499a5d3d6.png)
 
 Clone our project and open the one of the visualization folder 
 
 To Run the it locally, open the terminal in folder where the visualization code reside, here in the case we have in "Visualization using simple bar charts " 
+
 - write the follwoing commands 
   - npm install -g http-server
   - http-server 
+  
 - Server address
   -  http://localhost:8080
   
