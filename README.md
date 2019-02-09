@@ -74,16 +74,16 @@
 
 Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
 
-- Install Python 3.6 
-- Pip installed (If it is not already installed, download and install pip: https://pip.pypa.io/en/stable/installing/)
-- Install numpy: pip install numpy
-- Install scipy: pip install scipy
-- Install sklearn: pip install sklearn
+- Python 2.7+ (https://www.python.org/downloads/)
+- NumPy 1.6.1+ (http://sourceforge.net/projects/numpy/files/NumPy/1.10.2/)
+- SciPy 0.9+ (http://sourceforge.net/projects/scipy/files/scipy/0.16.1/)
+- Pip (https://pip.pypa.io/en/stable/installing/)
+- scikit-learn (http://scikit-learn.org/stable/install.html)
 
 - Installing Jupyter using Pip
 
-- python3 -m pip install --upgrade pip
-- python3 -m pip install jupyter
+- python -m pip install --upgrade pip
+- python -m pip install jupyter
 
 
 - Here are the links 
