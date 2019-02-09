@@ -63,3 +63,12 @@ To Run the it locally, open the terminal in folder where the visulaization code 
   - http-server 
 - Server address
   -  http://localhost:8080
+Same as for Interactive bar chart folder 
+
+# Group Members
+- Abdul-Rahman, khan 
+- A.B.M, Rocknuzaman 
+- Piush Aggarwal
+- Amin, Shahin 
+- Tiyanu Zhu
+- Muhammad, Zeeshan 
