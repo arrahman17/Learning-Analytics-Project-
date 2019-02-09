@@ -45,3 +45,10 @@
 ![github-small](https://user-images.githubusercontent.com/41241181/52513095-ccde6c00-2c08-11e9-9bdf-33bb0f8d7082.png)
 - Grade Average for each Department 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513097-ce0f9900-2c08-11e9-8615-4d75981dd8ac.png)
+
+## Installation
+**Installation for Machine learing**
+Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
+**Installation for Visualization**
+First make sure you have node installed , if you do not have installed then go to official Node web page (https://nodejs.org/en/) and download the latest version. After Insatalling Node follow this website(https://d3js.org/)
+![github-small](https://user-images.githubusercontent.com/41241181/52513614-4035ad00-2c0c-11e9-8a32-fc4499a5d3d6.png)
