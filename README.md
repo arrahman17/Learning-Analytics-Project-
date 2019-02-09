@@ -57,4 +57,9 @@ First make sure you have node installed , if you do not have installed then go t
 ![github-small](https://user-images.githubusercontent.com/41241181/52513674-acb0ac00-2c0c-11e9-9b87-3f36287926ba.png)
 After Insatalling Node, follow this link (https://d3js.org/) to download the D3.Js librray.
 ![github-small](https://user-images.githubusercontent.com/41241181/52513614-4035ad00-2c0c-11e9-8a32-fc4499a5d3d6.png)
-To Run the it locally, open the terminal in folder where the visulaization code reside, here in the case we have in 
+To Run the it locally, open the terminal in folder where the visulaization code reside, here in the case we have in "Visualization using simple bar charts " 
+- write the follwoing commands 
+  - npm install -g http-server
+  - http-server 
+- Server address
+  -  http://localhost:8080
