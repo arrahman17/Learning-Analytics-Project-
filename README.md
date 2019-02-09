@@ -126,3 +126,4 @@ Same as for Interactive bar chart folder
 - You will improve communication, presentation ,theoritical and practical skills 
 - You have the oppurtunity to Brainstorm ideas during workshops and will have the chance to work with globally minded students 
 - This project was the part of Learning Analytics course 
+- Personally, i like the teaching methode of prof. Chatti 
