@@ -115,3 +115,9 @@ Same as for Interactive bar chart folder
 - Amin, Shahin 
 - Tianyu Zhu
 - Muhammad, Zeeshan 
+
+# Special Thanks 
+**We are very thankful to Prof.Dr. Mohamed Amin Chatti and Dr. Arham Muslim**
+- For Providing us a such a plateform to learn the theoritical concept as well as the Practical concept
+- According to my experience, you will improve your skills like  Communication and Presentaion , Theoritical and Practical skills 
+
