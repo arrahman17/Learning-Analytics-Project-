@@ -41,7 +41,7 @@
 ![github-small](https://user-images.githubusercontent.com/41241181/52513091-c819b800-2c08-11e9-88ce-99881fe4cdaf.png)
 - German Student Analysis 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513094-cb14a880-2c08-11e9-9a3e-0d6767f5018c.png)
-- Internationl Studetn Analysis
+- Internationl Students Analysis
 ![github-small](https://user-images.githubusercontent.com/41241181/52513095-ccde6c00-2c08-11e9-9bdf-33bb0f8d7082.png)
 - Grade Average for each Department 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513097-ce0f9900-2c08-11e9-8615-4d75981dd8ac.png)
