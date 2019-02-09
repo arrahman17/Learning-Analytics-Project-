@@ -81,7 +81,7 @@ Install python with jupyter Notebook and as well as the libraries Pandas and Num
 - scikit-learn (http://scikit-learn.org/stable/install.html)
 
 Installing Jupyter using Pip
-Open Command Terminl and write down these commands 
+Open Command Terminal and write down these commands 
 - python -m pip install --upgrade pip
 - python -m pip install jupyter
 
