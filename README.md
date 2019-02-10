@@ -106,9 +106,9 @@ Here are the links
                  - 
 **How to Run**
 
-- Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
+   Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
 
-- Run it line by line 
+   Run it line by line 
 
 **Installation for Visualization**
 
@@ -128,6 +128,8 @@ After Installing Node, follow this link (https://d3js.org/) to download the D3.J
 
 
 **How to Run**
+
+
 Clone our project and open the one of the visualization folder 
 
 To Run the it locally, open the terminal in folder where the visualization code reside, here in the case we have in "Visualization using simple bar charts " 
