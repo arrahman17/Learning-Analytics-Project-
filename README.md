@@ -1,4 +1,4 @@
-# Learning-Analytics-Based-Project-
+# Learning-Analytics Based Project
 
 # Project Overview
 
