@@ -122,7 +122,7 @@ First make sure you have node installed , if you do not have installed then go t
 - For Node.js "node --version "
 - For NPM  "npm --version "
 
-After Installing Node, follow this link [D3](https://d3js.org/) to download the D3.Js librray , if you want to start with a new project 
+After Installing Node, download the [D3.Js librray](https://d3js.org/)  , if you want to start with a new project 
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513614-4035ad00-2c0c-11e9-8a32-fc4499a5d3d6.png)
 
@@ -162,7 +162,7 @@ Same as for Interactive bar chart folder
 
  - For Providing us such a platform to learn the theoritical concept as well as the Practical skills
  - To improve communication, presentation ,theoritical and practical skills 
- - And will have the oppurtunity to Brainstorm ideas during workshops and will have the chance to work with globally minded  students 
+ - And have the oppurtunity to Brainstorm ideas during workshops and as well as have the chance to work with globally minded  students 
  - This project was the part of Learning Analytics course 
  
 
