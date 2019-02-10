@@ -113,11 +113,11 @@ Here are the links
 
 **Installation for Visualization**
 
-First make sure you have node installed , if you do not have installed then go to official [Node](https://nodejs.org/en/) web page  and download the latest version. 
+   First make sure you have node installed , if you do not have installed then go to official [Node](https://nodejs.org/en/) web page  and download the latest version. 
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513674-acb0ac00-2c0c-11e9-9b87-3f36287926ba.png)
  
-- write these command to check Node and NPM is properly installed 
+ write these command to check Node and NPM is properly installed 
 
 - For Node.js "node --version "
 - For NPM  "npm --version "
