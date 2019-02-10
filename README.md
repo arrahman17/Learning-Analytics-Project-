@@ -83,11 +83,11 @@
 
 Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
 
-- Python 2.7+ (https://www.python.org/downloads/)
-- NumPy 1.6.1+ (http://sourceforge.net/projects/numpy/files/NumPy/1.10.2/)
-- SciPy 0.9+ (http://sourceforge.net/projects/scipy/files/scipy/0.16.1/)
-- Pip (https://pip.pypa.io/en/stable/installing/)
-- scikit-learn (http://scikit-learn.org/stable/install.html)
+- [Python 2.7](https://www.python.org/downloads/)
+- [NumPy 1.6.1](http://sourceforge.net/projects/numpy/files/NumPy/1.10.2/)
+- [SciPy 0.9](http://sourceforge.net/projects/scipy/files/scipy/0.16.1/)
+- [Pip](https://pip.pypa.io/en/stable/installing/)
+- [scikit-learn](http://scikit-learn.org/stable/install.html)
 
 Installing Jupyter using Pip
 
@@ -100,9 +100,9 @@ After Installing it , Open Terminal and type "Jupyter Notebook " if its works Co
 
 Here are the links 
 
- - https://jupyter.org/install 
+ - [How to Install Jupyter Notebook](https://jupyter.org/install) 
  
- - https://calebshortt.com/2016/01/15/installing-scikit-learn-python-data-mining-library/
+ - [How to Install Sciket Learn](https://calebshortt.com/2016/01/15/installing-scikit-learn-python-data-mining-library/)
  
                  
 **How to Run**
@@ -113,7 +113,7 @@ Here are the links
 
 **Installation for Visualization**
 
-First make sure you have node installed , if you do not have installed then go to official Node web page (https://nodejs.org/en/) and download the latest version. 
+First make sure you have node installed , if you do not have installed then go to official [Node](https://nodejs.org/en/) web page  and download the latest version. 
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513674-acb0ac00-2c0c-11e9-9b87-3f36287926ba.png)
  
@@ -122,7 +122,7 @@ First make sure you have node installed , if you do not have installed then go t
 - For Node.js "node --version "
 - For NPM  "npm --version "
 
-After Installing Node, follow this link (https://d3js.org/) to download the D3.Js librray , if you want to start with a new project 
+After Installing Node, follow this link [D3](https://d3js.org/) to download the D3.Js librray , if you want to start with a new project 
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513614-4035ad00-2c0c-11e9-8a32-fc4499a5d3d6.png)
 
@@ -156,9 +156,9 @@ Same as for Interactive bar chart folder
 # Evaluation 
 **Special Thanks to [SOCO TEAM](https://www.uni-due.de/soco/people.php)**
   
-  - This project was not possible without the help and motivition of Prof. Dr. Mohamed Amine Chatti and Dr. Arham Muslim
+  - This project was not possible without the help and motivition of [Prof. Dr. Mohamed Amine Chatti](https://www.uni-due.de/soco/people/mohamed-chatti.php) and [Dr. Arham Muslim](https://www.uni-due.de/soco/people/arham-muslim.php)
 
-**We are very thankful to Prof. Dr. Mohamed Amine Chatti and Dr. Arham Muslim**
+**We are very thankful to [Prof. Dr. Mohamed Amine Chatti](https://www.uni-due.de/soco/people/mohamed-chatti.php) and [Dr. Arham Muslim](https://www.uni-due.de/soco/people/arham-muslim.php)**
 
  - For Providing us such a platform to learn the theoritical concept as well as the Practical skills
  - You will improve communication, presentation ,theoritical and practical skills 
