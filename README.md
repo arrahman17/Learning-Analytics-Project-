@@ -6,6 +6,15 @@
   
   This project is aim to analyse student performance and enrolment.  We have collected raw data from students based on their previous grades. The project has two parts, one is system will classify Grades into two catageories Good or Bad using Sciket learn with the help of Machine learning techniques, and in second part we visualize the pre-processed data using D3.js.
   
+# Features
+**Analysis of student data**
+ - Subject wise performance 
+ - Sub-continent wise enrolment analysis
+ - Department wise analysis 
+ - Analysis of source of Study
+ - Prediction of Good or Bad Grades ( In Mainly Machine Learning part)
+
+  
 # Project Architecture
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52514869-e76b1200-2c15-11e9-868c-de81e0f0f0b8.png)
