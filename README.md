@@ -1,4 +1,4 @@
-# Learning-Analytics Based Project
+# Learning Analytics Based Project
 
 # Project Overview
 
@@ -17,7 +17,7 @@
   
 # Project Architecture
 
-![github-small](https://user-images.githubusercontent.com/41241181/52514869-e76b1200-2c15-11e9-868c-de81e0f0f0b8.png)
+![github-small](https://user-images.githubusercontent.com/41241181/52539005-b73c8400-2d79-11e9-9cc5-68bb8a4e4bb6.png)
 
 # Libraries/Algorithms
 
@@ -161,9 +161,10 @@ Same as for Interactive bar chart folder
 **We are very thankful to [Prof. Dr. Mohamed Amine Chatti](https://www.uni-due.de/soco/people/mohamed-chatti.php) and [Dr. Arham Muslim](https://www.uni-due.de/soco/people/arham-muslim.php)**
 
  - For Providing us such a platform to learn the theoritical concept as well as the Practical skills
- - You will improve communication, presentation ,theoritical and practical skills 
- - You have the oppurtunity to Brainstorm ideas during workshops and will have the chance to work with globally minded  students 
+ - To improve communication, presentation ,theoritical and practical skills 
+ - And will have the oppurtunity to Brainstorm ideas during workshops and will have the chance to work with globally minded  students 
  - This project was the part of Learning Analytics course 
+ 
 
 # Version 
 1.0
