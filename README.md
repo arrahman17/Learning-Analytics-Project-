@@ -154,8 +154,8 @@ Same as for Interactive bar chart folder
 - Muhammad, Zeeshan 
 
 # Evaluation 
-**Special Thanks to**
-  - [SOCO TEAM](https://www.uni-due.de/soco/people.php)
+**Special Thanks to [SOCO TEAM](https://www.uni-due.de/soco/people.php)**
+  
   - This project was not possible without the help and motivition of Prof. Dr. Mohamed Amine Chatti and Dr. Arham Muslim
 
 **We are very thankful to Prof. Dr. Mohamed Amine Chatti and Dr. Arham Muslim**
