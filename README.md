@@ -96,7 +96,7 @@ Open Command Terminal and write down these commands
 - python -m pip install --upgrade pip
 - python -m pip install jupyter
 
-After Installing it , Open Terminal and type "Jupyter Notebook " if its works Congratulations you have installed sucessfully
+After Installing it, Open Terminal and type "Jupyter Notebook " if its works Congratulations you have installed sucessfully
 
 Here are the links 
 
@@ -133,9 +133,10 @@ After Installing Node, download the [D3.Js librray](https://d3js.org/)  , if you
 
 Clone our project and open the one of the visualization folder 
 
-To Run the it locally, open the terminal in folder where the visualization code reside, here in the case we have in "Visualization using simple bar charts " 
+To Run it locally, open the terminal in folder where the visualization code reside, here in the case we have in "Visualization using simple bar charts " 
 
 - write the follwoing commands 
+
   - npm install -g http-server
   - http-server 
   
