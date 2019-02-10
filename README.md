@@ -103,7 +103,8 @@ Here are the links
  - https://jupyter.org/install 
  
  - https://calebshortt.com/2016/01/15/installing-scikit-learn-python-data-mining-library/
-                 - 
+ 
+                 
 **How to Run**
 
    Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
@@ -149,12 +150,11 @@ Same as for Interactive bar chart folder
 - A.B.M, Rocknuzzaman 
 - Piush, Aggarwal
 - Amin, Shahin 
-- Tianyu Zhu
+- Tianyu, Zhu
 - Muhammad, Zeeshan 
 
 # Evaluation 
 **Special Thanks** 
-
 **We are very thankful to Prof. Dr. Mohamed Amine Chatti and Dr. Arham Muslim**
 - For Providing us such a platform to learn the theoritical concept as well as the Practical skills
 - You will improve communication, presentation ,theoritical and practical skills 
