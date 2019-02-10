@@ -104,6 +104,7 @@ Here are the links
  
  - https://calebshortt.com/2016/01/15/installing-scikit-learn-python-data-mining-library/
                  - 
+**How to Run**
 
 - Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
 
@@ -114,7 +115,7 @@ Here are the links
 First make sure you have node installed , if you do not have installed then go to official Node web page (https://nodejs.org/en/) and download the latest version. 
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513674-acb0ac00-2c0c-11e9-9b87-3f36287926ba.png)
-
+ 
 - write these command to check Node and NPM is properly installed 
 
 - For Node.js "node --version "
@@ -124,6 +125,9 @@ After Installing Node, follow this link (https://d3js.org/) to download the D3.J
 
 ![github-small](https://user-images.githubusercontent.com/41241181/52513614-4035ad00-2c0c-11e9-8a32-fc4499a5d3d6.png)
 
+
+
+**How to Run**
 Clone our project and open the one of the visualization folder 
 
 To Run the it locally, open the terminal in folder where the visualization code reside, here in the case we have in "Visualization using simple bar charts " 
