@@ -104,15 +104,15 @@ Open Command Terminal and write down these commands
 - python -m pip install --upgrade pip
 - python -m pip install jupyter
 
-After Installing it, Open Terminal and type "Jupyter Notebook " if its works Congratulations you have installed sucessfully
-
 Here are the links 
 
  - [How to Install Jupyter Notebook](https://jupyter.org/install) 
  
  - [How to Install Sciket Learn](https://calebshortt.com/2016/01/15/installing-scikit-learn-python-data-mining-library/)
- 
-                 
+
+After Installing it, Open Terminal and type "Jupyter Notebook " if its works Congratulations you have installed sucessfully
+
+
 **How to Run**
 
    - Clone our Project folder , specially the "LA_project_grades_analysis.ipynb" file and "final_data.tsv"
