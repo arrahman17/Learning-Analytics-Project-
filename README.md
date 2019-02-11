@@ -107,6 +107,8 @@ Here are the links
                  
 **How to Run**
 
+   - Clone our Project folder , specially the "LA_project_grades_analysis.ipynb" file and "final_data.tsv"
+
    - Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
    
    - Set your path for Dateset with name "final_data.tsv"
