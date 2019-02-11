@@ -107,9 +107,11 @@ Here are the links
                  
 **How to Run**
 
-   Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
+   - Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
+   
+   - Set your path for Dateset with name "final_data.tsv"
 
-   Run it line by line 
+   - Run it line by line 
 
 **Installation for Visualization**
 
