@@ -83,12 +83,12 @@
 
 Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
 
-- [Python 2.7](https://www.python.org/downloads/) - Download it 
-- [NumPy 1.6.1](http://sourceforge.net/projects/numpy/files/NumPy/1.10.2/)  - pip install numpy
-- [SciPy 0.9](http://sourceforge.net/projects/scipy/files/scipy/0.16.1/)-   pip install scipy
-- [Pip](https://pip.pypa.io/en/stable/installing/) -  On linux or mac "pip install -U pip" for windows "python -m pip install -U pip"
-- [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html) - Pip install pandas
-- [scikit-learn](http://scikit-learn.org/stable/install.html) - pip install sciket-learn
+- [Python 2.7](https://www.python.org/downloads/)   - Download it 
+- [Pip](https://pip.pypa.io/en/stable/installing/)   -  On linux or mac "pip install -U pip" for windows "python -m pip install -U pip"
+- [NumPy 1.6.1](http://sourceforge.net/projects/numpy/files/NumPy/1.10.2/)   - pip install numpy
+- [SciPy 0.9](http://sourceforge.net/projects/scipy/files/scipy/0.16.1/)   -pip install scipy
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)   - Pip install pandas
+- [scikit-learn](http://scikit-learn.org/stable/install.html)   -pip install sciket-learn
 
 Installing Jupyter using Pip
 
