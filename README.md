@@ -83,7 +83,7 @@
 
 Install python with jupyter Notebook and as well as the libraries Pandas and Numpy 
 
-If you are Mac or Linux user, you can use the commands, if you are windows user follow the links for each installations
+If you are Mac or Linux user, you can use the commands, otherwise follow the links for each installations
 
 - [Python 2.7](https://www.python.org/downloads/)   - Download it 
 
@@ -93,7 +93,7 @@ If you are Mac or Linux user, you can use the commands, if you are windows user 
 
 - [SciPy 0.9](http://sourceforge.net/projects/scipy/files/scipy/0.16.1/)   -pip install scipy
 
-- [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)   - Pip install pandas
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/install.html)   - pip install pandas
 
 - [scikit-learn](http://scikit-learn.org/stable/install.html)   -pip install sciket-learn
 
