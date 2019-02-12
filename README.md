@@ -123,7 +123,7 @@ After Installing it, Open Terminal and type "Jupyter Notebook " if its works Con
 
    - Run it line by line 
    
-   [Demo](https://www.youtube.com/watch?v=HDBj9ByGUcA)
+   **[Demo](https://www.youtube.com/watch?v=HDBj9ByGUcA)**
 
 **Installation for Visualization**
 
@@ -159,7 +159,7 @@ To Run it locally, open the terminal in folder where the visualization code resi
   
 Same as for Interactive bar chart folder 
 
-[Demo](https://www.youtube.com/watch?v=Hf-WWgJAfMc)
+**[Demo](https://www.youtube.com/watch?v=Hf-WWgJAfMc)**
 
 # Group Members
 
