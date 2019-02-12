@@ -122,6 +122,8 @@ After Installing it, Open Terminal and type "Jupyter Notebook " if its works Con
    - Set your path for Dateset with name "final_data.tsv"
 
    - Run it line by line 
+   
+   [Demo](https://www.youtube.com/watch?v=HDBj9ByGUcA)
 
 **Installation for Visualization**
 
@@ -156,6 +158,8 @@ To Run it locally, open the terminal in folder where the visualization code resi
   -  http://localhost:8080
   
 Same as for Interactive bar chart folder 
+
+[Demo](https://www.youtube.com/watch?v=Hf-WWgJAfMc)
 
 # Group Members
 
