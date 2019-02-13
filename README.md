@@ -174,7 +174,7 @@ Same as for Interactive bar chart folder
   
   - This project was not possible without the help and motivition of [Prof. Dr. Mohamed Amine Chatti](https://www.uni-due.de/soco/people/mohamed-chatti.php) and [Dr. Arham Muslim](https://www.uni-due.de/soco/people/arham-muslim.php)
 
- - We are very thankful to [Prof. Dr. Mohamed Amine Chatti](https://www.uni-due.de/soco/people/mohamed-chatti.php) and [Dr.    Arham Muslim](https://www.uni-due.de/soco/people/arham-muslim.php)
+ **We are very thankful to [Prof. Dr. Mohamed Amine Chatti](https://www.uni-due.de/soco/people/mohamed-chatti.php) and [Dr.    Arham Muslim](https://www.uni-due.de/soco/people/arham-muslim.php)**
 
  - For Providing us such a platform to learn the theoritical concept as well as the Practical skills
  - To improve communication, presentation ,theoritical and practical skills 
