@@ -65,7 +65,7 @@ var	yAxis = d3.svg.axis().scale(y)
 
 // <.........................Define the Bar Chart.....................>  //
 
-// For Chart1   
+// For Chart1 Department wise enrolment   
 // Adds the svg canvas
 var	chart1 = d3.select("body")
 	.append("svg")
@@ -86,7 +86,7 @@ d3.csv("data4.csv", function(error, data) {
 	y.domain([0, d3.max(data, function(d) { return d.Students; })]);
 
 
-	// Add the X Axis
+	
   chart1.selectAll(".bar")
       .data(data)
       .enter().append("rect")
@@ -97,7 +97,7 @@ d3.csv("data4.csv", function(error, data) {
       .attr("width", x.rangeBand()
       );
  
-
+  // Add the X Axis
   chart1.append("g")
       .attr("class", "x axis")
       .attr("transform", "translate(0," + height + ")")
@@ -124,7 +124,7 @@ d3.csv("data4.csv", function(error, data) {
 
 });
 
-// For Chart2
+// For Chart2 country wise enrolment 
 // Adds the svg canvas
 var	chart2 = d3.select("body")
 	.append("svg")
@@ -182,7 +182,7 @@ d3.csv("data4.csv", function(error, data) {
 
 });
 
-// For Chart3
+// For Chart3 sub-continent wise enrolment 
 // Adds the svg canvas
 var	chart3 = d3.select("body")
 	.append("svg")
@@ -240,7 +240,7 @@ d3.csv("data4.csv", function(error, data) {
 
 
 
-//For Chart4
+//For Chart4 learning resource
 var	chart4 = d3.select("body")
 	.append("svg")
 		.attr("width", width + margin.left + margin.right)
