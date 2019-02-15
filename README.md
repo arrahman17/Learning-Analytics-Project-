@@ -1,4 +1,4 @@
-# Learning Analytics Based Project
+# Learning Analytics Based Semester Project
 
 # Project Overview
 
@@ -179,7 +179,7 @@ Same as for Interactive bar chart folder
  - For providing us such a platform to learn the theoritical concept as well as the practical skills
  - To improve communication, presentation ,theoritical and practical skills 
  - And having the oppurtunity to Brainstorm ideas during workshops and as well as have the chance to work with globally minded  students 
- - This project was the part of Learning Analytics course 
+ - This project was the part of Learning Analytics course in UDE
  
 
 # Version 
