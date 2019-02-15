@@ -4,7 +4,7 @@
 
  **Student Enrollment and Performance Analysis(SEPA)**
   
-  This project is aim to analyse student performance and enrolment.  We have collected raw data from students based on their previous grades. The project has two parts, one is system will classify Grades into two catageories Good or Bad using Sciket learn with the help of Machine learning techniques, and in other part we visualize the pre-processed data using D3.js.
+  This project is aim to analyse student performance and enrolment.  We have collected raw data from students based on their previous grades. The project has two parts, one is system will classify Grades into two catageories Good or Bad using Sciket learn with the help of Machine learning techniques, and in second part we visualize the pre-processed data using D3.js.
   
 # Features
 **Analysis of Student Data**
@@ -99,7 +99,7 @@ If you are Mac or Linux user, you can use the commands, otherwise follow the lin
 
 Installing Jupyter using Pip
 
-Open Command Terminal and write down these commands 
+Open command Terminal and write down these commands 
 
 - python -m pip install --upgrade pip
 - python -m pip install jupyter
@@ -115,7 +115,7 @@ After Installing it, Open Terminal and type "Jupyter Notebook " if its works Con
 
 **How to Run**
 
-   - Clone our Project folder , specially the "LA_project_grades_analysis.ipynb" file and "final_data.tsv"
+   - Clone our project folder , specially the "LA_project_grades_analysis.ipynb" file and "final_data.tsv"
 
    - Open Terminal and write Jupyter Notebook, and then open the "LA_project_grades_analysis.ipynb" 
    
@@ -176,7 +176,7 @@ Same as for Interactive bar chart folder
 
  **We are very thankful to [Prof. Dr. Mohamed Amine Chatti](https://www.uni-due.de/soco/people/mohamed-chatti.php) and [Dr.    Arham Muslim](https://www.uni-due.de/soco/people/arham-muslim.php)**
 
- - For Providing us such a platform to learn the theoritical concept as well as the practical skills
+ - For providing us such a platform to learn the theoritical concept as well as the practical skills
  - To improve communication, presentation ,theoritical and practical skills 
  - And having the oppurtunity to Brainstorm ideas during workshops and as well as have the chance to work with globally minded  students 
  - This project was the part of Learning Analytics course 
