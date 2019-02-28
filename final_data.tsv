@@ -1,0 +1,412 @@
+	ID	Semestr	Department	Sub-Department 	Subject	Grade	Learning Source	Evaluation	Susb-continent	Country
+0	1	2	Engineering	Computer Enginnering	Advanced Web Tech	1,3	Online	Good	Asia	Pakistan
+1	1	2	Engineering	Computer Enginnering	Distributed System	2,3	Vedio, Lecture	Good	Asia	Pakistan
+2	2	4	Engineering	Information Enginnering	Information Enginnering	3	Lecture	Good	Asia	Iran
+3	2	4	Engineering	Information Enginnering	Logic	2,3	Lecture	Good	Asia	Iran
+4	2	4	Engineering	Information Enginnering	IOT	4	Lecture	Bad	Asia	Iran
+5	3	4	Engineering	Computer Enginnering	IOT	3,3	Lecture	Good	Asia	Iran
+6	3	4	Engineering	Computer Enginnering	Peer To Peer 	3,3	Lecture	Good	Asia	Iran
+7	3	4	Engineering	Computer Enginnering	Web Technology	1,7	Lecture	Good	Asia	Iran
+8	4	2	Engineering	Computer Enginnering	Intractive system 	3,7	Lecture	Good	Asia	Iran
+9	5	4	Engineering	Informatic	Social Design Technic	1,7	Lecture	Good	Asia	Iran
+10	5	4	Engineering	Informatic	Industry Customer managment	2,3	Lecture	Good	Asia	Iran
+11	5	4	Engineering	Informatic	Efficient algorithm	3,3	Lecture	Good	Asia	Iran
+12	5	4	Engineering	Informatic	Usability of Information Technology	3,7	Lecture	Average	Asia	Iran
+13	6	7	Engineering	Computer Enginnering	Information Enginnering	1,7	Lecture	Good	Asia	Iran
+14	7	2	Engineering	ACE	Deutsch	2,7	Lecture	Average	Asia	China
+15	8	1	Humanities	Moderne Ostasienstudien	Deutsch	1	Lecture	Good	Europe	Germany
+16	9	2	Business	Mercator School of Management	Business Education	1	Lecture	Average	Europe	Germany
+17	9	2	Business	Mercator School of Management	Financial Accounting	1,3	Lecture	Average	Europe	Germany
+18	10	1	Business	Highschool	Biology	1	Lecture	Good	Europe	Germany
+19	11	3	Business	BWL	Personal management, Jahresabschluss, Statistik 1	3,7	Lecture	Good	Asia	Syria
+20	11	3	Business	BWL	 Jahresabschluss	2	Lecture	Good	Asia	Syria
+21	11	3	Business	BWL	Statistik 1	1,3	Lecture	Good	Asia	Syria
+22	12	2	Engineering	Teschniche Logestik	Betbriebsfuerung	1,7	Lecture	Average	Asia	Iran
+23	12	2	Engineering	Teschniche Logestik	Produktionstechnik	2,3	Lecture	Good	Asia	Iran
+24	13	1	Engineering	Engineering	English	3	Lecture	Average	Asia	China
+25	13	1	Engineering	Engineering	Physics	3	Lecture	Average	Asia	China
+26	14	3	Engineering	Engineering	Web technology	1,3	Lecture	Good	Europe	Germany
+27	14	3	Engineering	Engineering	Digital games	2	Lecture	Average	Europe	Germany
+28	14	3	Engineering	Engineering	Personal management	2,3	Lecture	Average	Europe	Germany
+29	15	2	Engineering	Engineering	Web Technology	2	Lecture	Good	Europe	Germany
+30	15	2	Engineering	Engineering	Personal management	2,3	Lecture	Average	Europe	Germany
+31	15	2	Engineering	Engineering	Digital games	2	Lecture	Good	Europe	Germany
+32	16	6	Engineering	Computer Enginnering	Information Retrival	1,7	Lecture	Average	Asia	Pakistan
+33	16	6	Engineering	Computer Enginnering	Information Enginnering	3	Lecture	Average	Asia	Pakistan
+34	16	6	Engineering	Computer Enginnering	Distributed System	2,7	Lecture	Good	Asia	Pakistan
+35	16	6	Engineering	Computer Enginnering	Cloud Web and Mobile	3	Lecture	Good	Asia	Pakistan
+36	16	6	Engineering	Computer Enginnering	IOT	2,7	Lecture	Good	Asia	Pakistan
+37	16	6	Engineering	Computer Enginnering	Advanced Web Tech	1,3	Lecture	Good	Asia	Pakistan
+38	16	6	Engineering	Computer Enginnering	Electronics Comm	4	Lecture	Good	Asia	Pakistan
+39	16	6	Engineering	Computer Enginnering	Gestalltung	2	Lecture	Good	Asia	Pakistan
+40	17	5	Engineering	Computer Enginnering	Information Retrival	3,7	Lecture	Good	Asia	Pakistan
+41	17	5	Engineering	Computer Enginnering	Information Enginnering	2,7	Lecture	Good	Asia	Pakistan
+42	17	5	Engineering	Computer Enginnering	Distributed System	3,7	Lecture	Good	Asia	Pakistan
+43	17	5	Engineering	Computer Enginnering	Cloud Web and Mobile	3,7	Lecture	Good	Asia	Pakistan
+44	17	5	Engineering	Computer Enginnering	IOT	3	Lecture	Good	Asia	Pakistan
+45	17	5	Engineering	Computer Enginnering	Advanced Web Tech	2	Lecture	Good	Asia	Pakistan
+46	17	5	Engineering	Computer Enginnering	Electronics Comm	2	Lecture	Good	Asia	Pakistan
+47	17	5	Engineering	Computer Enginnering	Gestalltung	2	Lecture	Good	Asia	Pakistan
+48	18	2	Engineering	Computer Enginnering	Advanced Web Tech	1,3	Lecture	Good	Asia	Syria
+49	19	3	Engineering	Computer Enginnering	Per to per	1,3	Lecture	Good	Asia	Palestine
+50	20	3	Engineering	Computer Enginnering	Electronics Comm	3,7	Lecture	Good	Europe	Germany
+51	20	2	Engineering	Computer Enginnering	Intractive system 	1	Lecture	Good	Europe	Germany
+52	20	2	Engineering	Computer Enginnering	Gills	1	Lecture	Good	Europe	Germany
+53	20	4	Engineering	Psy	Marktpsychologie	1,3	Seminar	Good	Europe	Germany
+54	20	3	Engineering	Psy	Organisationpsychologie	1,7	Seminar	Good	Europe	Germany
+55	21	1	Engineering	Computer Enginnering	Social network	3	Lecture	Good	Asia	Iran
+56	21	1	Engineering	Computer Enginnering	Distributed System	2,7	Lecture	Good	Asia	Iran
+57	21	1	Engineering	Computer Enginnering	Cognitive roboter system	2,3	Lecture	Good	Asia	Iran
+58	22	2	Engineering	Computer Enginnering	Intractive system 	3	Lecture	Good	Asia	Iran
+59	22	2	Engineering	Computer Enginnering	Social network	2,3	Lecture	Good	Asia	Iran
+60	22	3	Engineering	Computer Enginnering	Modlierung	3	Lecture	Good	Asia	Iran
+61	22	3	Engineering	Computer Enginnering	Distributed System	3,3	Lecture	Good	Asia	Iran
+62	23	3	Engineering	Computer Enginnering	Computer robot vision	4	Lecture	Bad	Asia	Iran
+63	23	3	Engineering	Computer Enginnering	Project praxis	2	Lecture	Good	Asia	Iran
+64	24	4	Medical	Medical	Physics	1,3	Lecture	Good	Europe	Germany
+65	24	4	Medical	Medical	Bio medical 	2	Lecture	Good	Europe	Germany
+66	24	4	Medical	Medical	Embryology	2,7	Lecture	Good	Europe	Germany
+67	24	4	Medical	Medical	Microscopic	2,3	Lecture	Good	Europe	Germany
+68	24	4	Medical	Medical	Histology	1,7	Lecture	Good	Europe	Germany
+69	25	1	Engineering	Information Enginnering	Information Retrival	2,3	Lecture	Good	Asia	Iran
+70	25	2	Engineering	Information Enginnering	Distributed System	3	Lecture	Good	Asia	Iran
+71	25	2	Engineering	Information Enginnering	Electronics Comm	3,3	Lecture	Good	Asia	Iran
+72	25	2	Engineering	Information Enginnering	Logistische informationssysteme	2,3	Lecture	Good	Asia	Iran
+73	26	1	Chemie	Chemie	Biochemie 1	3	Lecture	Average	Europe	Germany
+74	26	1	Chemie	Chemie	Biochemie 2	3,3	Lecture	Good	Europe	Germany
+75	26	2	Chemie	Chemie	Theoretische chemie	2,3	Lecture	Good	Europe	Germany
+76	26	2	Chemie	Chemie	Analytische chemi 1	3,3	Lecture	Good	Europe	Germany
+77	27	3	Engineering	Information Enginnering	Electronics Comm	1,3	Lecture	Good	Asia	India
+78	27	3	Engineering	Information Enginnering	Distributed System	2	Lecture	Good	Asia	India
+79	27	3	Engineering	Information Enginnering	Social Design Technic	2,3	Lecture	Average	Asia	India
+80	27	2	Engineering	Information Enginnering	Personal management	3,3	Lecture	Good	Asia	India
+81	27	2	Engineering	Information Enginnering	Web Technology	3	Lecture	Good	Asia	India
+82	28	3	Engineering	Computer Enginnering	Distributed System	4	Lecture	Bad	Asia	India
+83	28	3	Engineering	Computer Enginnering	IOT	3,7	Lecture	Bad	Asia	India
+84	28	2	Engineering	Computer Enginnering	Peer To Peer 	3,3	Lecture	Average	Asia	India
+85	28	2	Engineering	Computer Enginnering	Web Technology	1,7	Lecture	Good	Asia	India
+86	28	2	Engineering	Computer Enginnering	Intractive system 	3,7	Lecture	Good	Asia	India
+87	29	3	Engineering	Informatic	Social Design Technic	3,7	Lecture	Bad	Europe	Germany
+88	29	3	Engineering	Informatic	Industry Customer managment	2,3	Lecture	Good	Europe	Germany
+89	29	3	Engineering	Informatic	Efficient algorithm	3,3	Lecture	Average	Europe	Germany
+90	29	3	Engineering	Informatic	Usability of Information Technology	3,7	Lecture	Bad	Europe	Germany
+91	29	2	Engineering	Teschniche Logestik	Betbriebsfuerung	1,7	Lecture	Good	Asia	Turky
+92	29	2	Engineering	Teschniche Logestik	English	2,3	Lecture	Good	Asia	Turky
+93	30	2	Engineering	Computer Enginnering	Peer To Peer 	3,3	Lecture	Average	Asia	India
+94	30	2	Engineering	Computer Enginnering	Advanced Web Tech	2,3	Lecture	Good	Asia	India
+95	30	2	Engineering	Computer Enginnering	Electronics Comm	4	Lecture	Average	Asia	India
+96	31	1	Engineering	Materials science and simulation	Programming concepts in Mat.sci	2,3	Lecture	Good	Europe	Germany
+97	31	1	Engineering	Materials science and simulation	Basics in materials science	3	Lecture	Good	Europe	Germany
+98	31	1	Engineering	Materials science and simulation	Elements of microstructure	2,7	Lecture	Average	Europe	Germany
+99	31	2	Engineering	Materials science and simulation	Advanced numerical methods	2,3	Lecture	Good	Europe	Germany
+100	31	2	Engineering	Materials science and simulation	Advanced characterization method	2,3	Lecture	Good	Europe	Germany
+101	31	2	Engineering	Materials science and simulation	Atomistic simulation method	2,7	Lecture	Good	Europe	Germany
+102	31	2	Engineering	Materials science and simulation	Modelling and simulation3	3	Lecture	Average	Europe	Germany
+103	32	3	Physik	Physik	Physikalisches kolloquim	3	Lecture	Average	Europe	Uk
+104	32	3	Physik	Physik	Theoriekolloquium	3,3	Lecture	Good	Europe	Uk
+105	32	3	Physik	Physik	Hydrodinamik	1,7	Lecture	Good	Europe	Uk
+106	32	2	Physik	Physik	Aktuelle probleme der quantenpysik	2,7	Lecture	Average	Europe	Uk
+107	32	2	Physik	Physik	Experimentelle astrophsik	3	Lecture	Average	Europe	Uk
+108	32	2	Physik	Physik	Halbleiterepitaxie	3,7	Lecture	Bad	Europe	Uk
+109	32	2	Physik	Physik	Spin-dynamik	3,3	Lecture	Average	Europe	Uk
+110	32	1	Physik	Physik	Oberflaechen	4	Lecture	Bad	Europe	Uk
+111	32	1	Physik	Physik	Dichtefunktionaltheorie	2,7	Lecture	Average	Europe	Uk
+112	32	1	Physik	Physik	Computational physics	2	Lecture	Good	Europe	Uk
+113	33	2	Geographie	Urbane kultur	Grundlagen stadtgeographie	3,7	Lecture	Average	Europe	Russia
+114	33	2	Geographie	Urbane kultur	Geographie der logistik und des verkehrs	2,3	Lecture	Good	Europe	Russia
+115	33	2	Geographie	Urbane kultur	E.A.K	3,3	Lecture	Good	Europe	Russia
+116	34	5	Mathematik	Mathematik	Algebraische geometrie	3,7	Lecture	Good	Europe	Germany
+117	34	5	Mathematik	Mathematik	Analysis 2	1,3	Lecture	Good	Europe	Germany
+118	34	5	Mathematik	Mathematik	Analysis 1	2	Lecture	Good	Europe	Germany
+119	34	4	Mathematik	Mathematik	Numerische mathematik	2,7	Lecture	Good	Europe	Germany
+120	34	4	Mathematik	Mathematik	Matematische statistik	2,3	Lecture	Good	Europe	Germany
+121	34	3	Mathematik	Mathematik	Algebra 1	1,7	Lecture	Good	Europe	Germany
+122	34	3	Mathematik	Mathematik	Topologie	2,3	Lecture	Good	Europe	Germany
+123	34	3	Mathematik	Mathematik	Math.modellierung	3	Lecture	Good	Europe	Germany
+124	34	2	Mathematik	Mathematik	Konvexe analysis	3,3	Lecture	Good	Europe	Germany
+125	34	2	Mathematik	Mathematik	Riemannsche geometrie	2,3	Lecture	Good	Europe	Germany
+126	34	1	Mathematik	Mathematik	Funktionalanalysis	1,3	Lecture	Good	Europe	Germany
+127	34	1	Mathematik	Mathematik	Nichtlineare optimierung	2	Lecture	Good	Europe	Germany
+128	35	3	Engineering	Technologie und didaktik der technik	Analogtechnik	1,7	Lecture	Average	Europe	Germany
+129	35	3	Engineering	Technologie und didaktik der technik	Begleitveranstaltung berufsfeldpraktikum	2,3	Lecture	Good	Europe	Germany
+130	35	3	Engineering	Technologie und didaktik der technik	Labor Energieumsatz	3	Lecture	Average	Europe	Germany
+131	35	3	Engineering	Technologie und didaktik der technik	Informationsumsatz	3,7	Lecture	Bad	Europe	Germany
+132	35	3	Engineering	Technologie und didaktik der technik	Mensch und technik	2,3	Lecture	Good	Europe	Germany
+133	36	2	Maschinenbau und wirtschaft	Energie	Energiewirtschaft	1,7	Lecture	Good	Asia	Turky
+134	36	2	Maschinenbau und wirtschaft	Energie	Moderne energiesysteme	3,7	Lecture	Good	Asia	Turky
+135	36	2	Maschinenbau und wirtschaft	Energie	Stroemungsmaschinen	3,7	Lecture	Bad	Asia	Turky
+136	40	3	Biologie	Biologie	Modern biomedicine	3	Lecture	Average	Africa	Egypt
+137	40	3	Biologie	Biologie	Bio-hacks	3,3	Lecture	Good	Africa	Egypt
+138	40	3	Biologie	Biologie	Oekosystem	1,7	Lecture	Good	Africa	Egypt
+139	40	3	Biologie	Biologie	Geschichte der biologischen theorie	2,7	Lecture	Good	Africa	Egypt
+140	40	3	Biologie	Biologie	Scientific writing	3	Lecture	Good	Africa	Egypt
+141	41	3	Mathematik	Mathematik	Analysis 1	3,7	Lecture	Bad	Europe	Germany
+142	41	3	Mathematik	Mathematik	Numerische mathematik	3,3	Lecture	Good	Europe	Germany
+143	41	2	Mathematik	Mathematik	Konvexe analysis	3,7	Lecture	Average	Europe	Germany
+144	41	2	Mathematik	Mathematik	Riemannsche geometrie	2,7	Lecture	Good	Europe	Germany
+145	42	3	Engineering	Teschniche Logestik	Betbriebsfuerung	1,7	Lecture	Good	Asia	India
+146	42	3	Engineering	Teschniche Logestik	IOT	2,3	Lecture	Good	Asia	India
+147	42	3	Engineering	Computer Enginnering	Peer To Peer 	3,3	Lecture	Average	Asia	India
+148	42	3	Engineering	Computer Enginnering	Computer robot vision	2,3	Lecture	Good	Asia	India
+149	42	3	Engineering	Computer Enginnering	Electronics Comm	4	Lecture	Average	Asia	India
+150	43	4	Engineering	Information Enginnering	Electronics Comm	1,3	Lecture	Good	Europe	Germany
+151	43	4	Engineering	Information Enginnering	Distributed System	3,3	Lecture	Good	Europe	Germany
+152	43	4	Engineering	Information Enginnering	Social Design Technic	2,3	Lecture	Good	Europe	Germany
+153	43	4	Engineering	Information Enginnering	Personal management	2	Lecture	Good	Europe	Germany
+154	43	4	Engineering	Information Enginnering	Web Technology	3	Lecture	Average	Europe	Germany
+155	44	3	Physik	Physik	Aktuelle probleme der quantenpysik	2,7	Lecture	Good	Europe	Germany
+156	44	3	Physik	Physik	Experimentelle astrophsik	3	Lecture	Average	Europe	Germany
+157	44	3	Physik	Physik	Halbleiterepitaxie	2	Lecture	Good	Europe	Germany
+158	45	3	Engineering	Computer Enginnering	Distributed System	2	Lecture	Good	Europe	Germany
+159	45	3	Engineering	Computer Enginnering	IOT	3,3	Lecture	Average	Europe	Germany
+160	45	2	Engineering	Computer Enginnering	Peer To Peer 	3,3	Lecture	Average	Europe	Germany
+161	45	2	Engineering	Computer Enginnering	Computer robot vision	1,7	Lecture	Good	Europe	Germany
+162	45	2	Engineering	Computer Enginnering	Intractive system 	3	Lecture	Good	Europe	Germany
+163	46	3	Mathematik	Mathematik	Analysis 1	3,7	Lecture	Bad	Asia	Afghanistan
+164	46	3	Mathematik	Mathematik	Numerische mathematik	3,3	Lecture	Good	Asia	Afghanistan
+165	46	2	Mathematik	Mathematik	Konvexe analysis	3,7	Lecture	Average	Asia	Afghanistan
+166	47	2	Mathematik	Mathematik	Numerische mathematik	1,3	Lecture	Good	Asia	Pakistan
+167	47	2	Mathematik	Mathematik	Matematische statistik	2,7	Lecture	Good	Asia	Pakistan
+168	47	2	Mathematik	Mathematik	Konvexe analysis	1,7	Lecture	Good	Asia	Pakistan
+169	47	1	Mathematik	Mathematik	Riemannsche geometrie	2,3	Lecture	Good	Asia	Pakistan
+170	47	1	Mathematik	Mathematik	Analysis 1	3,3	Lecture	Average	Asia	Pakistan
+171	48	3	Mathematik	Mathematik	Analysis 1	4	Lecture	Bad	Europe	Germany
+172	48	3	Mathematik	Mathematik	Numerische mathematik	3,7	Lecture	Good	Europe	Germany
+173	48	2	Mathematik	Mathematik	Konvexe analysis	2,3	Lecture	Average	Europe	Germany
+174	48	2	Mathematik	Mathematik	Riemannsche geometrie	3,3	Lecture	Average	Europe	Germany
+175	48	2	Mathematik	Mathematik	Topologie	1,7	Lecture	Good	Europe	Germany
+176	48	2	Mathematik	Mathematik	Matematische statistik	2,7	Lecture	Good	Europe	Germany
+177	49	2	Biologie	Biologie	Geschichte der biologischen theorie	2,3	Lecture	Good	Europe	Ukraine
+178	49	2	Biologie	Biologie	Scientific writing	3,3	Lecture	Average	Europe	Ukraine
+179	49	2	Biologie	Biologie	Modern biomedicine	3,7	Lecture	Average	Europe	Ukraine
+180	50	3	Engineering	Technologie und didaktik der technik	Begleitveranstaltung berufsfeldpraktikum	2	Lecture	Average	Europe	Ukraine
+181	50	3	Engineering	Technologie und didaktik der technik	Informationsumsatz	4	Lecture	Bad	Europe	Ukraine
+182	50	3	Engineering	Technologie und didaktik der technik	Mensch und technik	3,3	Lecture	Average	Europe	Ukraine
+183	50	3	Engineering	Technologie und didaktik der technik	Analogtechnik	3,3	Lecture	Bad	Europe	Ukraine
+184	50	3	Engineering	Technologie und didaktik der technik	Labor Energieumsatz	1,3	Lecture	Good	Europe	Ukraine
+185	51	1	Biologie	Biologie	Modern biomedicine	3	Lecture	Good	Asia	Turky
+186	51	1	Biologie	Biologie	Bio-hacks	3,3	Lecture	Good	Asia	Turky
+187	51	2	Biologie	Biologie	Oekosystem	2,3	Lecture	Good	Asia	Turky
+188	51	2	Biologie	Biologie	Geschichte der biologischen theorie	4	Lecture	Bad	Asia	Turky
+189	52	1	Engineering	Materials science and simulation	Programming concepts in Mat.sci	2,7	Lecture	Good	Asia	Turky
+190	52	1	Engineering	Materials science and simulation	Basics in materials science	3,3	Lecture	Good	Asia	Turky
+191	52	2	Engineering	Materials science and simulation	Modelling and simulation3	1,3	Lecture	Good	Asia	Turky
+192	52	2	Engineering	Materials science and simulation	Advanced characterization method	2,3	Lecture	Good	Asia	Turky
+193	52	2	Engineering	Materials science and simulation	Advanced numerical methods	2,7	Lecture	Good	Asia	Turky
+194	53	2	Engineering	Engineering	Begleitveranstaltung berufsfeldpraktikum	1,7	Lecture	Good	Europe	Italy
+195	53	2	Engineering	Engineering	Informationsumsatz	2,3	Lecture	Average	Europe	Italy
+196	53	1	Engineering	Engineering	Mensch und technik	2,7	Lecture	Good	Europe	Italy
+197	53	1	Engineering	Engineering	Analogtechnik	4	Lecture	Average	Europe	Italy
+198	54	2	Engineering	Materials science and simulation	Atomistic simulation method	2,3	Lecture	Good	Europe	Germany
+199	54	1	Engineering	Materials science and simulation	Programming concepts in Mat.sci	2	Lecture	Good	Europe	Germany
+200	54	1	Engineering	Materials science and simulation	Basics in materials science	3,3	Lecture	Good	Europe	Germany
+201	54	2	Engineering	Materials science and simulation	Modelling and simulation3	3,7	Lecture	Average	Europe	Germany
+202	54	2	Engineering	Materials science and simulation	Advanced numerical methods	1,7	Lecture	Good	Europe	Germany
+203	54	2	Engineering	Materials science and simulation	Advanced characterization method	2,7	Lecture	Good	Europe	Germany
+204	55	1	Engineering	Computer Enginnering	English	2,3	Lecture	Good	Asia	Iran
+205	55	1	Engineering	Computer Enginnering	Information Enginnering	3,7	Lecture	bad	Asia	Iran
+206	55	3	Engineering	Computer Enginnering	Distributed System	1,3	Lecture	Average	Asia	Iran
+207	55	3	Engineering	Computer Enginnering	Digital games	2,3	Lecture	Average	Asia	Iran
+208	55	3	Engineering	Computer Enginnering	Personal management	2,7	Lecture	Average	Asia	Iran
+209	55	2	Engineering	Computer Enginnering	Cloud Web and Mobile	2	Lecture	Good	Asia	Iran
+210	56	2	Engineering	Computer Enginnering	Personal management	2,3	Lecture	Average	Asia	Iran
+211	56	2	Engineering	Computer Enginnering	Digital games	2	Lecture	Good	Asia	Iran
+212	56	6	Engineering	Computer Enginnering	Information Retrival	3,7	Lecture	Average	Asia	Iran
+213	56	6	Engineering	Computer Enginnering	Information Enginnering	3,3	Lecture	Average	Asia	Iran
+214	56	6	Engineering	Computer Enginnering	Distributed System	2	Lecture	Good	Asia	Iran
+215	56	6	Engineering	Computer Enginnering	Cloud Web and Mobile	3,3	Lecture	Good	Asia	Iran
+216	56	6	Engineering	Computer Enginnering	IOT	2,7	Lecture	Good	Asia	Iran
+217	56	6	Engineering	Computer Enginnering	Peer To Peer 	1,3	Lecture	Good	Asia	Iran
+218	56	6	Engineering	Computer Enginnering	Electronics Comm	3,3	Lecture	Good	Asia	Iran
+219	56	6	Engineering	Computer Enginnering	Gestalltung	2,3	Lecture	Good	Asia	Iran
+220	56	5	Engineering	Computer Enginnering	Computer robot vision	3,3	Lecture	Average	Asia	Iran
+221	56	5	Engineering	Computer Enginnering	Intractive system 	2,3	Lecture	Good	Asia	Iran
+222	57	1	Engineering	Technologie und didaktik der technik	Mathematics1	1,7	Lecture	Good	Europe	Italy
+223	57	1	Engineering	Technologie und didaktik der technik	Mechanics 1		Lecture	Good	Europe	Italy
+224	57	1	Engineering	Technologie und didaktik der technik	Thermodynamics 1		Lecture	Good	Europe	Italy
+225	57	1	Engineering	Technologie und didaktik der technik	Werkstofftechnik 1		Lecture	Good	Europe	Italy
+226	57	2	Engineering	Technologie und didaktik der technik	Mechanics 2		Lecture	Good	Europe	Italy
+227	57	2	Engineering	Technologie und didaktik der technik	Design Theory 1		Lecture	Good	Europe	Italy
+228	57	2	Engineering	Technologie und didaktik der technik	Design Theory 2		Lecture	Good	Europe	Italy
+229	57	2	Engineering	Technologie und didaktik der technik	Mechanics 2		Lecture	Good	Europe	Italy
+230	57	3	Engineering	Technologie und didaktik der technik	Fuid Dynamics		Lecture	Good	Europe	Italy
+231	57	3	Engineering	Technologie und didaktik der technik	CAD		Lecture	Good	Europe	Italy
+232	57	4	Engineering	Technologie und didaktik der technik	Modelling and simulation		Lecture	Good	Europe	Italy
+233	57	4	Engineering	Technologie und didaktik der technik	Messtechnik		Lecture	Good	Europe	Italy
+234	57	4	Engineering	Technologie und didaktik der technik	Mechanische Verfahrenstechnik		Lecture	Good	Europe	Italy
+235	58	2	Engineering	Materials science and simulation	Basics in materials science	3,3	Lecture	Good	Europe	Germany
+236	58	2	Engineering	Materials science and simulation	Elements of microstructure	1,7	Lecture	Good	Europe	Germany
+237	59	3	Mathematik	Mathematik	Konvexe analysis	4	Lecture	Bad	Europe	Germany
+238	59	3	Mathematik	Mathematik	Riemannsche geometrie	1,7	Lecture	Good	Europe	Germany
+239	59	2	Mathematik	Mathematik	Topologie	1,7	Lecture	Average	Europe	Germany
+240	60	3	Biologie	Biologie	Bio-hacks	3,3	Lecture	Good	Asia	China
+241	60	3	Biologie	Biologie	Oekosystem	1,7	Lecture	Good	Asia	China
+242	61	6	Engineering	Computer Enginnering	IOT	2,7	Lecture	Good	Asia	Germany
+243	61	6	Engineering	Computer Enginnering	Distributed System	2	Lecture	Good	Asia	Germany
+244	61	5	Engineering	Computer Enginnering	Computer robot vision	3,3	Lecture	Average	Asia	Germany
+245	61	3	Engineering	Computer Enginnering	Digital games	2,3	Lecture	Average	Asia	Germany
+246	62	2	Engineering	Informatic	Industry Customer managment	1	Lecture	Good	Europe	France
+247	62	2	Engineering	Informatic	Efficient algorithm	2,7	Lecture	Average	Europe	France
+248	63	3	Physik	Physik	Theoriekolloquium	2,3	Lecture	Good	Europe	Belgium
+249	63	3	Physik	Physik	Hydrodinamik	1,7	Lecture	Good	Europe	Belgium
+250	63	3	Physik	Physik	Experimentelle astrophsik	2	Lecture	Good	Europe	Belgium
+251	63	2	Physik	Physik	Spin-dynamik	2,3	Lecture	Good	Europe	Belgium
+252	63	2	Physik	Physik	Oberflaechen	3,7	Lecture	Good	Europe	Belgium
+253	63	2	Physik	Physik	Halbleiterepitaxie	1,7	Lecture	Good	Europe	Belgium
+254	64	2	Mathematik	Mathematik	Numerische mathematik	3,3	Lecture	Average	Europe	Germany
+255	64	2	Mathematik	Mathematik	Matematische statistik	4	Lecture	Bad	Europe	Germany
+256	64	2	Mathematik	Mathematik	Topologie	2,7	Lecture	Average	Europe	Germany
+257	65	2	Medical	Medical	Embryology	2	Lecture	Good	Europe	Germany
+258	65	2	Medical	Medical	Bio medical	2,3	Lecture	Good	Europe	Germany
+259	65	2	Medical	Medical	Histology	2,7	Lecture	Good	Europe	Germany
+260	66	3	Engineering	Informatic	Efficient algorithm	1,7	Lecture	Good	Asia	Iran
+261	66	3	Engineering	Informatic	Industry Customer managment	2	Lecture	Good	Asia	Iran
+262	66	3	Engineering	Informatic	Social Design Technic	3,7	Lecture	Average	Asia	Iran
+263	66	3	Engineering	Informatic	Usability of Information Technology	2,7	Lecture	Good	Asia	Iran
+264	67	2	Engineering	Technologie und didaktik der technik	Begleitveranstaltung berufsfeldpraktikum	2	Lecture	Average	Asia	Turky
+265	67	2	Engineering	Technologie und didaktik der technik	Mensch und technik	3,3	Lecture	Average	Asia	Turky
+266	67	2	Engineering	Technologie und didaktik der technik	Labor Energieumsatz	1,3	Lecture	Good	Asia	Turky
+267	68	2	Medical	Medical	Physics	1	Lecture	Good	Europe	Ukraine
+268	68	2	Medical	Medical	Histology	1,7	Lecture	Good	Europe	Ukraine
+269	68	2	Medical	Medical	Microscopic	2,3	Lecture	Good	Europe	Ukraine
+270	68	2	Medical	Medical	Embryology	2,7	Lecture	Good	Europe	Ukraine
+271	69	3	Engineering	Teschniche Logestik	Produktionstechnik	2,3	Lecture	Good	Asia	China
+272	69	3	Engineering	Teschniche Logestik	Betbriebsfuerung	2,7	Lecture	Good	Asia	China
+273	70	1	Engineering	Computer Enginnering	Entwicklung sicherer software	4	Lecture	Good	Asia	Iran
+274	70	1	Engineering	Computer Enginnering	Information Enginnering	3	Lecture	Good	Asia	Iran
+275	70	2	Engineering	Computer Enginnering	Information Retrival	1,3	Lecture	Good	Asia	Iran
+276	70	2	Engineering	Computer Enginnering	Computer robot vision	3	Lecture	Good	Asia	Iran
+277	70	2	Engineering	Computer Enginnering	Kognitive robotersysteme	3,3	Lecture	Good	Asia	Iran
+278	70	3	Engineering	Computer Enginnering	Intractive system 	2,3	Lecture	Good	Asia	Iran
+279	70	3	Engineering	Computer Enginnering	Gestalltung	1,7	Lecture	Good	Asia	Iran
+280	70	3	Engineering	Computer Enginnering	Scientific visualization	3	Lecture	Good	Asia	Iran
+281	71	1	Engineering	Computer Enginnering	Intractive system 	2,7	Lecture	Good	Asia	Iran
+282	72	1	Maschinbau	Teschniche Logestik	Logistische informationssyteme	2,3	Lecture	Good	Asia	Iran
+283	72	1	Maschinbau	Teschniche Logestik	Ausserbetrieblische trasport	3	Lecture	Good	Asia	Iran
+284	72	1	Maschinbau	Teschniche Logestik	Innerbetrieblische material fluss	3,3	Lecture	Good	Asia	Iran
+285	72	1	Maschinbau	Teschniche Logestik	Teschnische betriebs f�hrung	3	Lecture	Good	Asia	Iran
+286	72	1	Maschinbau	Teschniche Logestik	Arbeitswissenschaft	2	Lecture	Good	Asia	Iran
+287	72	1	Maschinbau	Teschniche Logestik	Produktionstechnik	3	Lecture	Good	Asia	Iran
+288	72	1	Maschinbau	Teschniche Logestik	Fabrikplanung	3,3	Lecture	Good	Asia	Iran
+289	72	1	Maschinbau	Teschniche Logestik	Intermodal Transportketten	3	Lecture	Good	Asia	Iran
+290	72	1	Maschinbau	Teschniche Logestik	Operation reasearch 	2,3	Lecture	Good	Asia	Iran
+291	72	1	Maschinbau	Teschniche Logestik	Methoden der systemteschnik	2,3	Lecture	Good	Asia	Iran
+292	72	1	Maschinbau	Teschniche Logestik	Virtuelle Product	2,3	Lecture	Good	Asia	Iran
+293	72	1	Maschinbau	Teschniche Logestik	Urbane Gesundheit	2,3	Lecture	Good	Asia	Iran
+294	72	1	Maschinbau	Teschniche Logestik	GPS in Urban	1	Lecture	Good	Asia	Iran
+295	72	1	Maschinbau	Teschniche Logestik	Anlage plannung 	2,7	Lecture	Good	Asia	Iran
+296	73	1	Engineering	Materials science and simulation	Programming concepts in Mat.sci	3,3	Lecture	Bad	Europe	Germany
+297	73	1	Engineering	Materials science and simulation	Advanced numerical methods	2	Lecture	Average	Europe	Germany
+298	73	2	Engineering	Materials science and simulation	Modelling and simulation3	1,7	Lecture	Good	Europe	Germany
+299	73	2	Engineering	Materials science and simulation	Advanced characterization method	1,3	Lecture	Good	Europe	Germany
+300	74	2	Medical	Medical	Histology	2,3	Lecture	Good	Europe	Germany
+301	74	2	Medical	Medical	Embryology	3,3	Lecture	Average	Europe	Germany
+302	1	1	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Grundlagen Politikwissenschaft		E-Learning, PDF-Dateien	bad	Europe	Germany
+303	1	1	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Methoden der empirischen Sozialforschung 		PDF-Dateien	bad 	Europe	Germany
+304	1	1	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Grundlagen Soziologie		PDF-Dateien, Karteikarten	good	Europe	Germany
+305	1	2	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Sozialstruktur & Sozialordnung De.		PDF-Dateien, Anwesenheit	bad  	Europe	Germany
+306	1	2	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Verkehr & Nachhaltigkeit		Anwesenheit, K-Karten	good	Europe	Germany
+307	1	2	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Politische Institutionen		PDF-Dateien	good	Europe	Germany
+308	1	2	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Grundlagen Polisystem De		Anwesenheit	good	Europe	Germany
+309	2	1	Engineering	Laser and Photonics	laser materials prosessing	2	Lecture	good	Asia	Pakistan
+310	2	1	Engineering	Laser and Photonics	Laser metrology	1	Lecture	good	Asia	Pakistan
+311	2	1	Engineering	Laser and Photonics	Laser technology	1	Lecture	good	Asia	Pakistan
+312	2	1	Engineering	Laser and Photonics	optical metrology	1	Lecture	good	Asia	Pakistan
+313	2	2	Engineering	Laser and Photonics	optoelectronics	1	Lecture	good	Asia	Pakistan
+314	2	2	Engineering	Laser and Photonics	photonics	1	Lecture	good	Asia	Pakistan
+315	2	2	Engineering	Laser and Photonics	fiber optics	1	Lecture	good	Asia	Pakistan
+316	2	3	Engineering	Laser and Photonics	Laser spectroscopy	1	Lecture	good	Asia	Pakistan
+317	2	3	Engineering	Laser and Photonics	Microsensors and actuators	1	Lecture	good	Asia	Pakistan
+318	2	3	Engineering	Laser and Photonics	photovoltaics	1	Lecture	good	Asia	Pakistan
+319	2	4	Engineering	Laser and Photonics	computational engineering 2	1	Lecture	good	Asia	Pakistan
+320	2	4	Engineering	Laser and Photonics	journal club	1	Lecture	good	Asia	Pakistan
+321	2	4	Engineering	Laser and Photonics	Project Advance optics	1	Lecture	good	Asia	Pakistan
+322	2	5	Engineering	Laser and Photonics	biophysical chemistry 1	2	Lecture	good	Asia	Pakistan
+323	2	5	Engineering	Laser and Photonics	methods and instruments of technology managment	1	Lecture	good	Asia	Pakistan
+324	3	1	Engineering	Laser and Photonics	Laser metrology	1	Lecture	good	Asia	Pakistan
+325	3	1	Engineering	Laser and Photonics	Laser technology	2	Lecture	good	Asia	Pakistan
+326	3	1	Engineering	Laser and Photonics	laser materials prosessing	2	Lecture	good	Asia	Pakistan
+327	3	1	Engineering	Laser and Photonics	optoelectronics	1	Lecture	good	Asia	Pakistan
+328	3	2	Engineering	Laser and Photonics	photonics	1,7	Lecture	good	Asia	Pakistan
+329	3	2	Engineering	Laser and Photonics	optical metrology	2	Lecture	good	Asia	Pakistan
+330	3	2	Engineering	Laser and Photonics	Laser spectroscopy	3	Lecture	bad	Asia	Pakistan
+331	3	2	Engineering	Laser and Photonics	fiber optics	1	Lecture	good	Asia	Pakistan
+332	3	2	Engineering	Laser and Photonics	Microsensors and actuators	2,7	Lecture	bad	Asia	Pakistan
+333	3	3	Engineering	Laser and Photonics	computational engineering 2	1,3	Lecture	good	Asia	Pakistan
+334	3	3	Engineering	Laser and Photonics	journal club	1	Lecture	good	Asia	Pakistan
+335	3	3	Engineering	Laser and Photonics	Project Advance optics	2,3	Lecture	good	Asia	Pakistan
+336	3	4	Engineering	Laser and Photonics	biophysical chemistry 1	2	Lecture	good	Asia	Pakistan
+337	3	4	Engineering	Laser and Photonics	methods and instruments of technology managment	1	Lecture	good	Asia	Pakistan
+338	4	1	Engineering	Laser and Photonics	laser materials prosessing	3	Lecture	bad	Asia	Pakistan
+339	4	1	Engineering	Laser and Photonics	Laser metrology	2,5	Lecture	bad	Asia	Pakistan
+340	4	1	Engineering	Laser and Photonics	Laser technology	2	Lecture	good	Asia	Pakistan
+341	4	1	Engineering	Laser and Photonics	optical metrology	1,3	Lecture	good	Asia	Pakistan
+342	4	2	Engineering	Laser and Photonics	optoelectronics	2	Lecture	good	Asia	Pakistan
+343	4	2	Engineering	Laser and Photonics	photonics	2	Lecture	good	Asia	Pakistan
+344	4	2	Engineering	Laser and Photonics	fiber optics	3	Lecture	bad	Asia	Pakistan
+345	4	3	Engineering	Laser and Photonics	Laser spectroscopy	4	Lecture	bad	Asia	Pakistan
+346	4	3	Engineering	Laser and Photonics	Microsensors and actuators	2,7	Lecture	bad	Asia	Pakistan
+347	4	3	Engineering	Laser and Photonics	photovoltaics	1	Lecture	good	Asia	Pakistan
+348	4	4	Engineering	Laser and Photonics	computational engineering 2	1,7	Lecture	good	Asia	Pakistan
+349	4	4	Engineering	Laser and Photonics	journal club	1	Lecture	good	Asia	Pakistan
+350	4	4	Engineering	Laser and Photonics	Project Advance optics	3,3	Lecture	bad	Asia	Pakistan
+351	4	5	Engineering	Laser and Photonics	biophysical chemistry 1	1	Lecture	good	Asia	Pakistan
+352	4	5	Engineering	Laser and Photonics	methods and instruments of technology managment	2	Lecture	good	Asia	Pakistan
+353	5	1	Engineering	Laser and Photonics	Laser metrology	1	Lecture	good	Asia	Pakistan
+354	5	1	Engineering	Laser and Photonics	Laser technology	2	Lecture	good	Asia	Pakistan
+355	5	1	Engineering	Laser and Photonics	laser materials prosessing	2	Lecture	good	Asia	Pakistan
+356	5	1	Engineering	Laser and Photonics	optoelectronics	1	Lecture	good	Asia	Pakistan
+357	5	2	Engineering	Laser and Photonics	photonics	1,7	Lecture	good	Asia	Pakistan
+358	5	2	Engineering	Laser and Photonics	optical metrology	2	Lecture	good	Asia	Pakistan
+359	5	2	Engineering	Laser and Photonics	Laser spectroscopy	3	Lecture	bad	Asia	Pakistan
+360	5	2	Engineering	Laser and Photonics	fiber optics	1	Lecture	good	Asia	Pakistan
+361	5	2	Engineering	Laser and Photonics	Microsensors and actuators	2,7	Lecture	bad	Asia	Pakistan
+362	5	3	Engineering	Laser and Photonics	computational engineering 2	1,3	Lecture	good	Asia	Pakistan
+363	5	3	Engineering	Laser and Photonics	journal club	1	Lecture	good	Asia	Pakistan
+364	5	3	Engineering	Laser and Photonics	Project Advance optics	2,3	Lecture	good	Asia	Pakistan
+365	5	4	Engineering	Laser and Photonics	biophysical chemistry 1	2	Lecture	good	Asia	Pakistan
+366	5	4	Engineering	Laser and Photonics	methods and instruments of technology managment	1	Lecture	good	Asia	Pakistan
+367	6	1	Engineering	Laser and Photonics	laser materials prosessing	2	Lecture	good	Asia	Pakistan
+368	6	1	Engineering	Laser and Photonics	Laser metrology	1	Lecture	good	Asia	Pakistan
+369	6	1	Engineering	Laser and Photonics	Laser technology	1,7	Lecture	good	Asia	Pakistan
+370	6	1	Engineering	Laser and Photonics	optical metrology	2	Lecture	good	Asia	Pakistan
+371	6	2	Engineering	Laser and Photonics	photonics	3	Lecture	bad	Asia	Pakistan
+372	6	2	Engineering	Laser and Photonics	Laser spectroscopy	1	Lecture	good	Asia	Pakistan
+373	6	2	Engineering	Laser and Photonics	fiber optics	2,7	Lecture	bad	Asia	Pakistan
+374	6	2	Engineering	Laser and Photonics	optoelectronics	1,3	Lecture	good	Asia	Pakistan
+375	7	1	Engineering	Laser and Photonics	laser materials prosessing	1	Lecture	good	Asia	Pakistan
+376	7	1	Engineering	Laser and Photonics	Laser metrology	2	Lecture	good	Asia	Pakistan
+377	7	1	Engineering	Laser and Photonics	Laser technology	2	Lecture	good	Asia	Pakistan
+378	7	2	Engineering	Laser and Photonics	optical metrology	1	Lecture	good	Asia	Pakistan
+379	7	2	Engineering	Laser and Photonics	optoelectronics	1,7	Lecture	good	Asia	Pakistan
+380	7	2	Engineering	Laser and Photonics	photonics	4	Lecture	bad	Asia	Pakistan
+381	7	2	Engineering	Laser and Photonics	fiber optics	3	Lecture	bad	Asia	Pakistan
+382	7	2	Engineering	Laser and Photonics	Laser spectroscopy	1	Lecture	good	Asia	Pakistan
+383	7	3	Engineering	Laser and Photonics	Microsensors and actuators	2,7	Lecture	bad	Asia	Pakistan
+384	7	3	Engineering	Laser and Photonics	photovoltaics	1,3	Lecture	good	Asia	Pakistan
+385	7	4	Engineering	Laser and Photonics	methods and instruments of technology managment	1	Lecture	good	Asia	Pakistan
+386	7	4	Engineering	Laser and Photonics	journal club	2,3	Lecture	good	Asia	Pakistan
+387	7	4	Engineering	Laser and Photonics	Project Advance optics	2	Lecture	good	Asia	Pakistan
+388	7	5	Engineering	Laser and Photonics	biophysical chemistry 1	1	Lecture	good	Asia	Pakistan
+389	7	5	Engineering	Laser and Photonics	computational engineering 2	3	Lecture	bad	Asia	Pakistan
+390	8	1	Engineering	Laser and Photonics	photonics	1	Lecture	good	Asia	Pakistan
+391	8	1	Engineering	Laser and Photonics	Laser spectroscopy	1,7	Lecture	good	Asia	Pakistan
+392	8	1	Engineering	Laser and Photonics	laser materials prosessing	1	Lecture	good	Asia	Pakistan
+393	8	1	Engineering	Laser and Photonics	optoelectronics	3,3	Lecture	bad	Asia	Pakistan
+394	8	2	Engineering	Laser and Photonics	Laser metrology	1	Lecture	good	Asia	Pakistan
+395	8	2	Engineering	Laser and Photonics	optical metrology	2	Lecture	good	Asia	Pakistan
+396	8	2	Engineering	Laser and Photonics	biophysical chemistry 1	1	Lecture	good	Asia	Pakistan
+397	8	2	Engineering	Laser and Photonics	fiber optics	2	Lecture	good	Asia	Pakistan
+398	8	2	Engineering	Laser and Photonics	Microsensors and actuators	2	Lecture	good	Asia	Pakistan
+399	8	3	Engineering	Laser and Photonics	journal club	1	Lecture	good	Asia	Pakistan
+400	8	3	Engineering	Laser and Photonics	Laser technology	1,7	Lecture	good	Asia	Pakistan
+401	8	3	Engineering	Laser and Photonics	methods and instruments of technology managment	2	Lecture	good	Asia	Pakistan
+402	8	4	Engineering	Laser and Photonics	computational engineering 2	3	Lecture	bad	Asia	Pakistan
+403	8	4	Engineering	Laser and Photonics	Project Advance optics	1	Lecture	good	Asia	Pakistan
+404	9	1	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Sozialstruktur & Sozialordnung De.		PDF-Dateien, Anwesenheit	good	Europe	Germany
+405	9	1	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Methoden der empirischen Sozialforschung 		PDF-Dateien	bad 	Europe	Germany
+406	9	1	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Grundlagen Soziologie		PDF-Dateien, Karteikarten	good	Europe	Germany
+407	9	2	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Politische Institutionen		PDF-Dateien	bad  	Europe	Germany
+408	9	2	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Verkehr & Nachhaltigkeit		Anwesenheit, K-Karten	good	Europe	Germany
+409	9	2	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Grundlagen Politikwissenschaft		E-Learning, PDF-Dateien	good	Europe	Germany
+410	9	2	 Instituts für Politikwissenschaft (IfP)	Politikwissenschaft	Grundlagen Polisystem De		Anwesenheit	bad	Europe	Germany
