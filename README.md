@@ -168,6 +168,7 @@ Same as for Interactive bar chart folder
 - Amin, Shahin 
 - Tianyu, Zhu
 - Muhammad, Zeeshan 
+- Ghulam Dawood Nasimi
 
 # Evaluation 
 **Special Thanks to [SOCO TEAM](https://www.uni-due.de/soco/people.php)**
