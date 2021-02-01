@@ -163,7 +163,7 @@ Same as for Interactive bar chart folder
 # Group Members
 
 - Abdul-Rahman, khan 
-- A.B.M, Rocknuzzaman 
+- A.B.M. Rocknuzzaman 
 - Piush, Aggarwal
 - Amin, Shahin 
 - Tianyu, Zhu
